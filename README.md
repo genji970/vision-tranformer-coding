@@ -5,7 +5,7 @@ This is on going. So there can be any mistakes.
 
 At main.py model runs.
 
-At Data_loading.py, only subset of CIFAR10 dataset will be loaded.
+At Data_loading.py, only subset of CIFAR10 dataset will be loaded. 
 
 At input_processing.py, there are two functions
   1) at image_to_patches, images divided into patches
