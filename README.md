@@ -1,7 +1,7 @@
 # vision-tranformer-coding
 coding trying 
 
-This is on going. So there can be any mistakes.
+This is on going. So there can be some mistakes.
 
 At main.py model runs.
 
